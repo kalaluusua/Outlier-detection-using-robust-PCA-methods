@@ -1,4 +1,4 @@
-# Outlier-detection-using-robust-PCA-methods
+# Outlier detection using robust PCA methods
 Bachelor's thesis for Engineering Physics and Mathematics in Aalto University School of Science
 
 ## Abstract
